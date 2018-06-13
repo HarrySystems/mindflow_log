@@ -1,0 +1,22 @@
+{
+  "name": "mindflow_log",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mindflow_log.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harrysystems/mindflow_log.git"
+  },
+  "author": "HarrySystems",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harrysystems/mindflow_log/issues"
+  },
+  "homepage": "https://github.com/harrysystems/mindflow_log#readme",
+  "dependencies": {
+    "mindflow": "^1.0.1"
+  }
+}
